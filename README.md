@@ -12,5 +12,4 @@ Está aprendendo:
 Quer aprender:
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-Me encontra no ..
-![]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
